@@ -1,4 +1,4 @@
-mindease-dashboard (file structure)
+mindease-dashboard (file structure) client
 ├── public/
 │   └── index.html
 ├── src/
@@ -12,3 +12,8 @@ mindease-dashboard (file structure)
 │   └── index.css
 ├── package.json
 └── README.md
+
+mindease-server/
+├── app.py
+├── requirements.txt
+└── .env

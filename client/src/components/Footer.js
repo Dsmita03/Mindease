@@ -18,7 +18,7 @@ const Footer = () => {
         </Box>
         <Box sx={{ display: 'flex', alignItems: 'center', mb: 1 }}>
           <Language sx={{ mr: 1 }} />
-          <Typography>www.mindease.com</Typography>
+          <Typography>www.cognitotechnologies.com</Typography>
         </Box>
         <Box sx={{ display: 'flex', alignItems: 'center', mb: 1 }}>
           <LinkedIn sx={{ mr: 1 }} />
